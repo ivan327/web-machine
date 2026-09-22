@@ -1,2 +1,7 @@
-# web-machine
-Web machine project
+# Web Machine
+
+Небольшой стартовый веб-проект на чистом HTML, CSS и JavaScript.
+
+## Запуск
+
+Откройте `index.html` в браузере или запустите любой локальный статический сервер.
